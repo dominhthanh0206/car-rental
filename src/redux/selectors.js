@@ -1,0 +1,18 @@
+export const itemPropOverlaySelector = (value) => value.itemPropOverlay;
+export const overlaySelector = (value) => value.overlay;
+export const carSelector = (value) => value.car;
+export const genreSelector = (value) => value.genre;
+export const registerSelector = (value) => value.register;
+export const loginSelector = (value) => value.login;
+export const userSelector = (value) => value.user;
+export const sendIdDetailSelector = (value) => value.sendIdDetail;
+export const carsSortSelector = (value) => value.carsSort;
+export const alertSelector = (value) => value.alert;
+export const dateTimeSelector = (value) => value.dateTime;
+export const toastMessageSelector= (value) => value.toastMessage;
+export const isLoadingGlobalSelector= (value) => value.isLoadingGlobal;
+export const rentalInfomationSelector= (value) => value.rentalInfomation;
+export const rentedCarsSelector= (value) => value.rentedCars;
+export const itemRentedCarsSelector= (value) => value.itemRentedCars;
+export const listItemRentedCarsSelector= (value) => value.listItemRentedCars;
+export const updateItemRentedCarCarsSelector= (value) => value.updateItemRentedCar;
